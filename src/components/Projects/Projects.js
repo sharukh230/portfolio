@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="JDs Store"
               description="JD's Store is an online Ecommerece store for fashion brands like clothing, wearbles, Footwears "
-              ghLink="https://github.com/sharukh230/Jds-Store-frontend"
+              // ghLink="https://github.com/sharukh230/Jds-Store-frontend"
               demoLink="https://jdstore-ecomm.netlify.app/"
             />
           </Col>

@@ -26,10 +26,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="JDs Store"
-              description="JD's Store is an online Ecommerece store for fashion brands like clothing, wearbles, Footwears "
-              ghLink="https://github.com/sharukh230/Jds-Store-frontend"
-              demoLink="https://jdstore-ecomm.netlify.app/"
+              title="Venus Store"
+              description="Venus is an online Ecommerece store for fashion brands like clothing, wearbles, Footwears "
+              ghLink="https://github.com/sharukh230/venus-store-ecomm"
+              demoLink="https://venus-ecomm.netlify.app/"
             />
           </Col>
 
